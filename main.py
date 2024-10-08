@@ -10,6 +10,6 @@ message = input('Enter Message you wanna send : ')
 hour = int(input('Enter hour : '))
 minute = int(input('Enter minute : ')) """
 
-pywhatkit.sendwhatmsg_instantly("+918919048144", "msz from chatbot of kusuma adari")
+pywhatkit.sendwhatmsg_instantly("+918919048254", "msz from chatbot of kusuma adari")
 
 pg.click()
